@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5a9fd21e-4f52-4cb8-bd7b-1e140eb1e263" alt="coding banner" width="1200"/>
+  <img src="https://github.com/user-attachments/assets/5a9fd21e-4f52-4cb8-bd7b-1e140eb1e263" alt="coding banner" width="1400"/>
 </p>
 
 ---
