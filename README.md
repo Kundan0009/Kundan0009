@@ -1,17 +1,16 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
-<h3 align="center">A Passionate Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
-
-<img width="1305" height="708" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/8c9bd198-3705-4c58-b89d-2edf60496265" />
+<h3 align="center">Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/h9u7qgH.png" alt="coding banner" width="600"/>
+  <img src="https://<img width="1408" height="736" alt="Gemini_Generated_Image_djb1uadjb1uadjb1" src="https://github.com/user-attachments/assets/5a9fd21e-4f52-4cb8-bd7b-1e140eb1e263" />
+" alt="coding banner" width="600"/>
 </p>
 
 ---
 
 ## 💡 About Me
-- 🔭 Currently working on: **FarmConnect 🌾 **
+- 🔭 Currently working on: **FarmConnect 🌾**
 - 🌱 Learning: **Generative AI, Cloud (AWS/IBM), Kubernetes**
 - 💬 Ask me about: **MERN, DevOps, AI Projects**
 - ⚡ Fun fact: *Even with 1000 AIs, I’ll still choose my AI buddy 😉*
@@ -53,10 +52,10 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/kundan-kumar/" target="_blank">
+  <a href="https://www.linkedin.com/in/mrkundankumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://Kundan0009.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="mailto:kundan95705@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
