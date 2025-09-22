@@ -3,9 +3,7 @@
 <h3 align="center">Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
 
 <p align="center">
-  <img src="https://<img width="1408" height="736" alt="<img width="1305" height="708" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/3dc9dbeb-a81f-4087-858f-a710ddb1ee4f" />
-" src="https://github.com/user-attachments/assets/5a9fd21e-4f52-4cb8-bd7b-1e140eb1e263" />
-" alt="coding banner" width="600"/>
+  <img src="https://github.com/user-attachments/assets/5a9fd21e-4f52-4cb8-bd7b-1e140eb1e263" alt="coding banner" width="600"/>
 </p>
 
 ---
