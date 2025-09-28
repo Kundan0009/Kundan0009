@@ -3,7 +3,8 @@
 <h3 align="center">Full Stack Developer 🚀 | AI & ML Enthusiast 🤖 | DevOps Explorer ⚙️</h3>
 
 <p align="center">
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea38c277-c1b2-4227-a288-5f4f673b4e58" />
+![471983365-68b05b87-a235-4916-82e3-b3d8bfa59896](https://github.com/user-attachments/assets/dd707d1e-024e-43e2-bffe-538cfef68237)
+
 </p>
 
 ---
