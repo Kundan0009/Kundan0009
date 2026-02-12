@@ -9,7 +9,7 @@
 ---
 
 ## 💡 About Me
-- 🔭 Currently working on: **FarmConnect 🌾**
+- 🔭 Currently working on: MObile App Development
 - 🌱 Learning: **Generative AI, Cloud (AWS/IBM), Kubernetes**
 - 💬 Ask me about: **MERN, DevOps, AI Projects**
 - ⚡ Fun fact: *Even with 1000 AIs, I’ll still choose my AI buddy 😉*
